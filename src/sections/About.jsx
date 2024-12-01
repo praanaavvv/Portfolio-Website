@@ -112,7 +112,7 @@ const About = () => {
                 {/* Logo 1 - GitHub */}
                 <a href="https://github.com/praanaavvv" target="_blank" rel="noopener noreferrer">
                   <img
-                    src="assets/github.png"
+                    src="assets/icons8-github-120.png"
                     alt="GitHub"
                     className="w-20 h-20 object-contain hover:scale-105 transition-transform"
                   />
@@ -121,7 +121,7 @@ const About = () => {
                 {/* Logo 2 - LinkedIn */}
                 <a href="https://www.linkedin.com/in/pranav-agarwal-502461274/" target="_blank" rel="noopener noreferrer">
                   <img
-                    src="assets/linkedin.png"
+                    src="assets/icons8-linkedin-150.png"
                     alt="LinkedIn"
                     className="w-20 h-20 object-contain hover:scale-105 transition-transform"
                   />
@@ -130,7 +130,7 @@ const About = () => {
                 {/* Logo 3 - Email */}
                 <a href="mailto:pranav.agarwal428@gmail.com" target="_blank" rel="noopener noreferrer">
                   <img
-                    src="assets/icons8-gmail-144.png"
+                    src="assets/icons8-gmail-150.png"
                     alt="Email"
                     className="w-20 h-20 object-contain hover:scale-105 transition-transform"
                   />
@@ -139,7 +139,7 @@ const About = () => {
                 {/* Logo 4 - Website */}
                 <a href="https://t.me/Pranav21" target="_blank" rel="noopener noreferrer">
                   <img
-                    src="assets/tg.png"
+                    src="assets/icons8-telegram-150.png"
                     alt="Website"
                     className="w-20 h-20 object-contain hover:scale-105 transition-transform"
                   />
